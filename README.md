@@ -1,2 +1,3 @@
 # pr-p
-This is my frist git repositry
+This is my first git repositry
+Auther-Priyanka Patil
